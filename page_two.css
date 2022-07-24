@@ -1,0 +1,16 @@
+.header{
+    font-family: 'Caveat', cursive;
+    color:white;
+    font-size:70;
+}
+
+body{
+    background-image:url('OIP (2).jpg');
+}
+
+
+canvas{
+    border-radius:30px;
+    box-shadow: teal 30px 20px;
+   
+}
